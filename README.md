@@ -1,4 +1,3 @@
 # miniproject1
 
-How are you?
-Are you fine?
+Implementation of Basic Rubik's cube game.
